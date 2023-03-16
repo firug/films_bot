@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "pg": "^8.10.0"
+  },
+  "name": "new_web_in_tg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
